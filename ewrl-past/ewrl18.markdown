@@ -10,7 +10,7 @@ The 18th European Workshop on Reinforcement Learning (EWRL 2025)
 ----------------------------------------------------------------
 
 **Webpage: [https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/](https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/)  
-****Dates:** September 17th -19th, 2025  
+**Dates:** September 17th -19th, 2025  
 **Location:** Tübingen, Germany  
 **Contact:** [ewrl2025@gmail.com](mailto:ewrl2025@gmail.com)  
 **Submissions:** via Openreview until 30th May, 11:59pm AOE  
