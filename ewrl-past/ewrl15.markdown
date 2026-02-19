@@ -2,7 +2,7 @@
 layout: page
 title: EWRL15 (2022)
 permalink: /EWRL15/
-nav_order: 16
+nav_order: 6
 ---
 # EWRL15 (2022) | European Workshops on Reinforcement Learning
 The 15th European Workshop on Reinforcement Learning (EWRL 2022)

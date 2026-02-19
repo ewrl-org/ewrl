@@ -13,7 +13,7 @@ On this site you will find all information about the European Workshop on Reinfo
 
 [EWRL19](https://ewrl-org.github.io/ewrl-2026/index.html) will be held on **October 5–7, 2026, in Lille, France.**
 
-## Misc information about past EWRL
+## Informations about past EWRL
 
 - The JMLR proceedings for EWRL 2012 are available online at [http://jmlr.csail.mit.edu/proceedings/papers/v24/](http://jmlr.csail.mit.edu/proceedings/papers/v24/).
 

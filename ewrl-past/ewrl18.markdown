@@ -2,7 +2,7 @@
 layout: page
 title: EWRL18 (2025)
 permalink: /EWRL18/
-nav_order: 19
+nav_order: 3
 ---
 
 # EWRL18 (2025) | European Workshops on Reinforcement Learning

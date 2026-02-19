@@ -2,7 +2,7 @@
 layout: page
 title: EWRL6 (2003)
 permalink: /EWRL6/
-nav_order: 7
+nav_order: 15
 ---
 # EWRL6 (2003) | European Workshops on Reinforcement Learning
 **EWRL-6  

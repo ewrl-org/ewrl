@@ -2,7 +2,7 @@
 layout: page
 title: EWRL14 (2018)
 permalink: /EWRL14/
-nav_order: 15
+nav_order: 7
 ---
 # EWRL14 (2018) | European Workshops on Reinforcement Learning
 Here you can find information about the workshop structure, dates, speakers. Please contact the organizers [Matteo Pirotta](mailto:matteo.pirotta@inria.fr), [Ronan Fruit](mailto:ronan.fruit@inria.fr), [Mathieu Seurin](mailto:mathieu.seurin@inria.fr) or [Florian Strub](mailto:florian.strub@inria.fr) if you have any questions.

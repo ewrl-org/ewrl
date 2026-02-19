@@ -2,7 +2,7 @@
 layout: page
 title: EWRL11 (2013)
 permalink: /EWRL11/
-nav_order: 12
+nav_order: 10
 ---
 # EWRL11 (2013) | European Workshops on Reinforcement Learning
 The 11th European Workshop on Reinforcement Learning (EWRL 2013)

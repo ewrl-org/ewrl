@@ -2,7 +2,7 @@
 layout: page
 title: EWRL3 (1997)
 permalink: /EWRL3/
-nav_order: 4
+nav_order: 18
 ---
 # EWRL3 (1997) | European Workshops on Reinforcement Learning
 EWRL-3 location

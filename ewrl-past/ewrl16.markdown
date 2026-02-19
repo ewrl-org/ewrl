@@ -2,7 +2,7 @@
 layout: page
 title: EWRL16 (2023)
 permalink: /EWRL16/
-nav_order: 17
+nav_order: 5
 ---
 # EWRL16 (2023) | European Workshops on Reinforcement Learning
 The 16th European Workshop on Reinforcement Learning (EWRL 2023)

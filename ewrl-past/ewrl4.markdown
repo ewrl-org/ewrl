@@ -2,7 +2,7 @@
 layout: page
 title: EWRL4 (1999)
 permalink: /EWRL4/
-nav_order: 5
+nav_order: 17
 ---
 # EWRL4 (1999) | European Workshops on Reinforcement Learning
 EWRL-4 location:

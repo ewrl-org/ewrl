@@ -2,7 +2,7 @@
 layout: page
 title: EWRL2 (1995)
 permalink: /EWRL2/
-nav_order: 3
+nav_order: 19
 ---
 # EWRL2 (1995) | European Workshops on Reinforcement Learning
 Location

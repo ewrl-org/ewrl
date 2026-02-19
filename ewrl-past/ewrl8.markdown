@@ -2,7 +2,7 @@
 layout: page
 title: EWRL8 (2008)
 permalink: /EWRL8/
-nav_order: 9
+nav_order: 13
 ---
 # EWRL8 (2008) | European Workshops on Reinforcement Learning
 European Workshop on Reinforcement Learning 2008

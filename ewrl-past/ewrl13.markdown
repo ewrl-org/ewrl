@@ -2,7 +2,7 @@
 layout: page
 title: EWRL13 (2016)
 permalink: /EWRL13/
-nav_order: 14
+nav_order: 8
 ---
 
 # EWRL13 (2016) | European Workshops on Reinforcement Learning

@@ -2,7 +2,7 @@
 layout: page
 title: EWRL9 (2011)
 permalink: /EWRL9/
-nav_order: 10
+nav_order: 12
 ---
 # EWRL9 (2011) | European Workshops on Reinforcement Learning
 The 9th European Workshop on Reinforcement Learning (EWRL-9)

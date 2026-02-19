@@ -2,7 +2,7 @@
 layout: page
 title: EWRL1 (1994)
 permalink: /EWRL1/
-nav_order: 2
+nav_order: 20
 ---
 
 # EWRL1 (1994)

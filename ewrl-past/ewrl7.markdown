@@ -2,7 +2,7 @@
 layout: page
 title: EWRL7 (2005)
 permalink: /EWRL7/
-nav_order: 8
+nav_order: 14
 ---
 
 # EWRL7 (2005) | European Workshops on Reinforcement Learning
