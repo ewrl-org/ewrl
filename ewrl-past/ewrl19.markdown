@@ -5,7 +5,7 @@ permalink: /EWRL19/
 nav_order: 2
 ---
 
-# EWRL18 (2026) | European Workshops on Reinforcement Learning
+# EWRL19 (2026) | European Workshops on Reinforcement Learning
 The 19th European Workshop on Reinforcement Learning (EWRL 2025)
 ----------------------------------------------------------------
 
