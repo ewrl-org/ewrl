@@ -10,7 +10,7 @@ The 19th European Workshop on Reinforcement Learning (EWRL 2026)
 ----------------------------------------------------------------
 
 **Webpage:** [https://ewrl-org.github.io/ewrl-2026/index.html](https://ewrl-org.github.io/ewrl-2026/index.html)  
-**Dates:** September 5th -7th, 2026  
+**Dates:** October 5th -7th, 2026  
 **Location:** Lille, France  
 **Contact:** [ewrl-2026@inria.fr](mailto:ewrl-2026@inria.fr)  
 
